@@ -1,0 +1,1 @@
+Bu proje, [Kodlama.io](https://kodlama.io) platformundan aldığım eğitim ve destek ile geliştirilmiştir. Proje kapsamında yazılım geliştirme becerilerimi geliştirmek, temiz kod yazımı ve verimlilik gibi konularda deneyim kazanmayı hedefledim.
